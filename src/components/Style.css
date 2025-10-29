@@ -1,0 +1,70 @@
+.check{
+    color:#8bc348 !important;
+    background-color:white !important;
+    border:solid #8bc348 3px !important;
+}
+.check:hover{
+    transition:1s ;
+    -webkit-transition:1s ;
+    -moz-transition:1s ;
+    -ms-transition:1s ;
+    -o-transition:1s ;
+    color:white !important;
+    background-color:#8bc348 !important; 
+    border:solid #f9f9f9 3px !important
+}
+.checkso{
+      transition:1s ;
+    -webkit-transition:1s ;
+    -moz-transition:1s ;
+    -ms-transition:1s ;
+    -o-transition:1s ;
+    color:white !important;
+    background-color:#8bc348 !important; 
+    border:solid #f9f9f9 3px !important
+}
+.edit{
+    color:#25c35cff !important;
+     background-color:white !important;
+      border:solid #25c35cff 3px !important;
+    }
+    .edit:hover{
+    transition:1s ;
+       -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+    color:white !important;
+     background-color:#25c35cff !important;
+      border:solid white 3px !important
+}
+.delete{
+     color:#c36548ff !important;
+     background-color:white !important;
+     border:solid #c36548ff 3px !important;
+    }
+    .delete:hover{
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+     color:white !important; 
+     background-color:#c36548ff !important; 
+     border:solid white 3px !important;
+}
+.Card{
+    background-color:#283462 !important;
+    color:white !important;
+    margin-top:5px !important;
+}
+.Card:hover{
+    box-shadow: 2px 2px rgb(253, 46, 0);
+ 
+    transition:1s;
+    -webkit-transition:1s;
+    -moz-transition:1s;
+    -ms-transition:1s;
+    -o-transition:1s;
+    padding-block: 1rem;
+}
